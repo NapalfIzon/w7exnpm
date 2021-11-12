@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet-cli": "^0.1.1",
+    "inquirer": "^8.2.0",
+    "prompt": "^1.2.0"
+  },
+  "name": "skylab-clean-folder-napoleon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NapalfIzon/w7exnpm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NapalfIzon/w7exnpm/issues"
+  },
+  "homepage": "https://github.com/NapalfIzon/w7exnpm#readme",
+  "description": ""
+}
