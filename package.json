@@ -1,12 +1,11 @@
 {
   "dependencies": {
     "chalk": "^4.1.2",
-    "figlet-cli": "^0.1.1",
-    "inquirer": "^8.2.0",
+    "commander": "^8.3.0",
     "prompt": "^1.2.0"
   },
   "name": "skylab-clean-folder-napoleon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "devDependencies": {
     "eslint": "^8.2.0",
@@ -15,7 +14,7 @@
     "eslint-plugin-import": "^2.25.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
